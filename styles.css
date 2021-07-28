@@ -1,0 +1,99 @@
+.term{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.pho{
+padding-left: 20px;
+padding-top: 10px;
+}
+
+
+.title{
+padding-top: 10px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.int{
+padding-left: 20px;
+}
+
+
+.pho2{
+padding-left: 700px;
+padding-top: 50px;
+}
+
+.desc{
+text-align: center;
+padding-right: 50px;
+padding-bottom: 70px;
+color:dimgray;
+}
+
+
+.opt{
+padding-left: 20px;
+}
+
+
+.games{
+text-align: center;
+}
+
+.tab{
+width: 100%;
+}
+
+.col1{
+width: 610px;
+}
+
+
+.col2{
+width: 610px;
+}
+
+
+.col3{
+width: 610px;
+}
+
+
+.maj{
+text-align: center;
+}
+
+
+.maj2{
+padding-left: 20px;
+}
+
+
+.v1{
+padding-left: 10px;
+}
+
+
+.theint{
+color:cadetblue;
+padding-top: 15px;
+}
+
+.pho3{
+text-align: center;
+padding-top: 10px;
+}
+
+
+.desc2{
+text-align: center;
+color:dimgray;
+}
+
+.abo{
+padding-top: 50px;
+color:teal;
+text-align: right;
+}
